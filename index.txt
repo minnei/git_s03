@@ -1,0 +1,4 @@
+<?
+echo "Hello"
+echo "Miss Athicha"
+?>
