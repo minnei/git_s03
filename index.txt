@@ -1,4 +1,5 @@
 <?
 echo "Hello"
-echo "Miss Athicha"
+echo "Miss Athicha";
+echo "kanwong"
 ?>
